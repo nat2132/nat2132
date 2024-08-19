@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Natoli!:
+# 👋 Hi, I'm Natoli!
 🧑🏻‍💻 Aspiring Computer Sceince Student with a passion for problem-solving and innovation<br>🎓 Pursuing a Bachelor's degree in Computer Science at the American College of Technology<br>🖥️ Developing expertise in programming languages, algorithms, and software design<br>🌱 Openly sharing my learning journey and projects in my digital garden<br>📊 Diving deep into data analysis, visualization, and machine learning techniques<br>🚀 Driven to turn my technical skills into impactful solutions that drive progress
 
 ## 🌐 Socials:
