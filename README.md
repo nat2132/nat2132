@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Natoli Adugna!
 
-🎓 **Computer Science Student** at the American College of Technology  
+🎓 **Computer Science Graduate Student** at the American College of Technology  
 🧠 **Aspiring Software Developer & Data Enthusiast**  
 🚀 Passionate about building impactful solutions through code and innovation  
 
 ---
 
 ## 🧑🏻‍💻 About Me
-- 📘 Currently pursuing a **Bachelor's Degree in Computer Science**
+- 📘 Currently finished pursuing a **Bachelor's Degree in Computer Science**
 - 🖥️ Building strong foundations in **programming, algorithms, and software design**
 - 📊 Exploring the worlds of **data analysis**, **visualization**, and **machine learning**
 - 🌱 Sharing my journey and projects as part of my personal **digital garden**
